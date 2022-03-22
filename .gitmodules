@@ -1,0 +1,6 @@
+[submodule "Project_CTR"]
+	path = Project_CTR
+	url = https://github.com/RealSilentPirate/Project_CTR.git
+[submodule "bannertool"]
+	path = bannertool
+	url = https://github.com/RealSilentPirate/bannertool.git
