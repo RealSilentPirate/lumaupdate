@@ -4,3 +4,6 @@
 [submodule "bannertool"]
 	path = bannertool
 	url = https://github.com/RealSilentPirate/bannertool.git
+[submodule "devkitPro"]
+	path = devkitPro
+	url = https://github.com/devkitPro/buildscripts.git
